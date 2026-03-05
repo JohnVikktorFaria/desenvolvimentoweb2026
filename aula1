@@ -1,126 +1,15 @@
-A Aula 01 teve como objetivo apresentar a disciplina e introduzir os principais conceitos relacionados ao desenvolvimento web, abordando desde planejamento de projetos até tecnologias modernas utilizadas na construção de aplicações web.
-
----
-
-## 📌 Apresentação da Disciplina
-
-Inicialmente, foi apresentada a proposta da disciplina, seus objetivos de aprendizagem, o conteúdo programático e a metodologia de ensino.  
-A disciplina combina princípios de design visual com tecnologias web, visando a criação de interfaces digitais funcionais, organizadas e atrativas.
-
----
-
-## 🌐 Arquitetura de um Site
-
-Foi discutida a importância do planejamento no desenvolvimento de um projeto web, incluindo:
-
-- Definição de escopo  
-- Arquitetura da informação  
-- Prototipação  
-- Conceitos de UX/UI  
-- Validação e refinamento de ideias  
-
-Destacou-se que um bom planejamento impacta diretamente na qualidade final do sistema.
-
----
-
-## 🔄 Versionamento e Deploy
-
-Foram introduzidos conceitos fundamentais sobre controle de versão:
-
-- Registro de alterações em arquivos ao longo do tempo  
-- Recuperação de versões específicas  
-- Trabalho colaborativo em equipe  
-- Uso de branches para desenvolvimento paralelo  
-
-Também foram abordados:
-- Conceito de deploy  
-- Ambientes de desenvolvimento  
-- Integração Contínua (CI/CD)  
-- Plataformas como GitHub, GitLab e Bitbucket  
-
-Esses conceitos são essenciais para o desenvolvimento profissional e organização de projetos.
-
----
-
-## 💻 Introdução ao JavaScript (Vanilla JS)
-
-Foi apresentado o JavaScript como linguagem essencial para o desenvolvimento front-end:
-
-- Linguagem interpretada  
-- Manipulação do DOM  
-- Comunicação com servidores  
-- Implementação de lógica na interface  
-
-O conceito de Vanilla JS foi explicado como o JavaScript puro, sem dependências externas, base para frameworks modernos.
-
----
-
-## 🖥️ Servidores, Hospedagem e CMS
-
-A aula abordou:
-
-- Conceito de servidores e hospedagem  
-- Importância dos sistemas de gerenciamento de conteúdo (CMS)  
-- Criação e gerenciamento de sites sem codificação intensiva  
-- Configuração, personalização e uso de plugins  
-
----
-
-## 🧩 Website Builders
-
-Ferramentas que permitem criar sites sem programação manual.
-
-**Vantagens:**
-- Facilidade de uso  
-- Rapidez na criação  
-- Templates prontos e responsivos  
-
-**Limitações:**
-- Flexibilidade reduzida  
-- Possíveis limitações de performance  
-- Dificuldade de migração  
-
----
-
-## ⚛️ Frameworks Front-end
-
-Foram introduzidos conceitos sobre frameworks e bibliotecas modernas:
-
-- React  
-- Vue  
-- Angular  
-
-Também foram discutidos:
-- Arquitetura baseada em componentes  
-- Gerenciamento de estado  
-- Rotas  
-- Integração com APIs  
-
----
-
-## 🔧 Frameworks Back-end
-
-Foram apresentados conceitos importantes para o desenvolvimento do lado do servidor:
-
-- Arquitetura MVC  
-- APIs RESTful  
-- Boas práticas de organização de código  
-- Integração com banco de dados  
-- Autenticação e segurança  
-
----
-
-## 🗄️ Banco de Dados NoSQL
-
-Por fim, foi introduzido o conceito de bancos de dados não-relacionais:
-
-- Estrutura flexível (schema dinâmico)  
-- Armazenamento de diferentes tipos de dados  
-- Escalabilidade horizontal  
-- Distribuição de dados em múltiplos servidores  
-
----
-
-## 📚 Conclusão
-
-A Aula 01 apresentou os fundamentos teóricos e tecnológicos que servirão como base para o desenvolvimento das atividades ao longo do semestre, destacando a importância do planejamento, organização, uso de ferramentas profissionais e compreensão das tecnologias modernas aplicadas ao desenvolvimento web.
+# Aula 01
+--Introdução à Disciplina
+A Aula 01 apresentou os principais objetivos da disciplina e os conceitos iniciais sobre desenvolvimento web. Foram abordados temas relacionados ao planejamento de projetos, organização de sistemas e tecnologias utilizadas na criação de aplicações web.
+--Arquitetura de um Site
+Foi discutida a importância do planejamento no desenvolvimento de um site, incluindo definição de escopo, arquitetura da informação, prototipação e conceitos de UX/UI. Um bom planejamento ajuda a melhorar a organização e a qualidade final do sistema.
+--Versionamento e Deploy
+Foram apresentados conceitos de controle de versão, que permitem registrar alterações em arquivos ao longo do tempo, recuperar versões anteriores e facilitar o trabalho em equipe. Também foi explicado o conceito de deploy e o uso de plataformas como GitHub, GitLab e Bitbucket.
+--Introdução ao JavaScript
+A aula trouxe uma introdução ao JavaScript (Vanilla JS), linguagem essencial para o desenvolvimento front-end, responsável por adicionar interatividade às páginas web e permitir a manipulação do conteúdo exibido no navegador.
+-- Servidores, Hospedagem e CMS
+Também foram abordados conceitos de servidores e hospedagem de sites, além dos sistemas de gerenciamento de conteúdo (CMS), que permitem criar e administrar sites com menos necessidade de programação.
+-- Frameworks e Tecnologias Web
+Por fim, foram apresentados frameworks front-end e back-end utilizados no desenvolvimento moderno, além da introdução aos bancos de dados NoSQL, que oferecem maior flexibilidade e escalabilidade no armazenamento de dados.
+-- Conclusão
+A Aula 01 apresentou os fundamentos que servirão de base para o desenvolvimento web ao longo da disciplina, destacando a importância do planejamento, das ferramentas de versionamento e das tecnologias utilizadas na criação de aplicações modernas.
